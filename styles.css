@@ -30,6 +30,12 @@ body {
   overflow-x: hidden;
 }
 
+.title {
+  max-width: 50%;
+  color: #ffffff;
+  font-size: 6.5rem;
+}
+
 section {
   padding: 3.8rem 0;
   overflow: hidden;
@@ -480,12 +486,6 @@ footer {
 
   .first-letter {
     font-size: 12.2rem;
-  }
-
-  .title {
-    max-width: 50%;
-    color: #ffffff;
-    font-size: 6.5rem;
   }
 
   .headline {
