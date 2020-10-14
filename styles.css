@@ -196,7 +196,7 @@ header {
   text-align: left;
 }
 
-.hero.half-hero {
+.hero.half-hero{
   height: 50vh;
 }
 
@@ -204,6 +204,29 @@ header {
   background: url("./images/Abilitee.png") center no-repeat;
   background-position-y: 50%;
 }
+
+#zf .hero {
+  background: url("./images/Koh-tablet.png") center no-repeat;
+  background-position-y: 50%;
+}
+
+#technopolis .hero {
+  background: url("./images/Technopolis_Parapent.png") center no-repeat;
+  background-position-y: 50%;
+}
+
+#diagnoseCar .hero {
+  background: url("./images/DiagnoseCar.png") center no-repeat;
+  background-position-y: 50%;
+}
+
+#bmw-ar .hero {
+  background: url("./images/BMWAR.jpg") center no-repeat;
+  background-position-y: 50%;
+}
+
+
+
 
 
 
