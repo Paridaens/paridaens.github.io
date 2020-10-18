@@ -206,12 +206,12 @@ header {
 }
 
 #zf .hero {
-  background: url("./images/Koh-tablet.png") center no-repeat;
+  background: url("./images/Koh-img-tablet-1.png") center no-repeat;
   background-position-y: 50%;
 }
 
 #technopolis .hero {
-  background: url("./images/Technopolis_Parapent.png") center no-repeat;
+  background: url("./images/Technopolis_Parapent.jpg") center no-repeat;
   background-position-y: 50%;
 }
 
@@ -221,7 +221,7 @@ header {
 }
 
 #bmw-ar .hero {
-  background: url("./images/BMWAR.jpg") center no-repeat;
+  background: url("./images/JorssenNoord.jpg") center no-repeat;
   background-position-y: 50%;
 }
 
