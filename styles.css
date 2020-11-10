@@ -230,6 +230,12 @@ header {
   background-position-y: 50%;
 }
 
+#vreg .hero {
+  background: url("./images/Vreg.png") center no-repeat;
+  background-position-y: 50%;
+}
+
+
 
 
 
